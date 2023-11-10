@@ -74,8 +74,8 @@ const Navbar = () => {
                                 <Link href='About' className='shadow-sm hover:bg-opacity-20 text-white hover:bg-slate-50 hover:text-gray-400 transition-all rounded-lg p-2 '>About</Link>
                             <StackDivider />
                                 <Link href='Projects' className='shadow-sm hover:bg-opacity-20 text-white hover:bg-slate-50 hover:text-gray-400 transition-all rounded-lg p-2 '>Projects</Link>
-                            <StackDivider />
-                                <Link href='Achievements' className='shadow-sm hover:bg-opacity-20 text-white hover:bg-slate-50 hover:text-gray-400 transition-all rounded-lg p-2 '>Achievements</Link>
+                            {/* <StackDivider /> */}
+                                {/* <Link href='Achievements' className='shadow-sm hover:bg-opacity-20 text-white hover:bg-slate-50 hover:text-gray-400 transition-all rounded-lg p-2 '>Achievements</Link> */}
                             <Divider />
                         </Stack>
                         
